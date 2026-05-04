@@ -1,4 +1,6 @@
-﻿namespace Dsw2026Ej8
+﻿using System;
+
+namespace Dsw2026Ej8
 {
     internal class Program
     {
